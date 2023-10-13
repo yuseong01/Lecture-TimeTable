@@ -1,0 +1,9 @@
+C:\En#\4차_LTT\src\LTT\bin\Debug\LTT.exe.config
+C:\En#\4차_LTT\src\LTT\bin\Debug\LTT.exe
+C:\En#\4차_LTT\src\LTT\bin\Debug\LTT.pdb
+C:\En#\4차_LTT\src\LTT\obj\Debug\LTT.csproj.AssemblyReference.cache
+C:\En#\4차_LTT\src\LTT\obj\Debug\LTT.csproj.SuggestedBindingRedirects.cache
+C:\En#\4차_LTT\src\LTT\obj\Debug\LTT.csproj.CoreCompileInputs.cache
+C:\En#\4차_LTT\src\LTT\obj\Debug\LTT.exe
+C:\En#\4차_LTT\src\LTT\obj\Debug\LTT.pdb
+C:\En#\4차_LTT\src\LTT\obj\Debug\LTT.csproj.ResolveComReference.cache
